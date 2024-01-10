@@ -14,4 +14,4 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav77e)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Vaibhav77e&repo=chat_app)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chethancm2001&repo=aqi_monitoring)
+
